@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <<meta charset="UTF-8">
+    <title>Studievägsledning</title>
+    <<link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+
+    <img src="uppslagen bok.jpg" alt="Bilden kan inte visas." style="position: absolute; top: 200px; float: left;"></img>
+
+
+
+    <div class="box">
+      <div class="Item1"></div>
+    </div>
+    <div class="box1">
+      <div class="Orangeruta"></div>
+    </div>
+
+    <div class="box2(orangerutan2)">
+      <div class="Orangeruta2"></div>
+    </div>
+    <p style="font-size: 35px; color: white; position: absolute; top: 180px; left: 870px">Utbilda dig till läkare</p>
+    <p style="font-size: 35px; color: white; position: absolute; top: 380px; left: 870px">Om Universitets- och högskoleområdet</p>
+
+
+    <b><p style="font-size: 30px; color: white; position: absolute; top: 380px; left: 150px;">Här leder vi dig till ditt drömjobb!</p></b>
+    <p style="font-family:'Times New Roman'; color: white; position: absolute; top: 435px; left: 150px;"> Vill du bli läkare? Astronaut? Psykolog? <br>Nu kan du hitta vägledningen du ska ta för att utbilda dig till ditt dröm jobb. <br>Sök i rutan och få din guide!</br></br></p>
+    <img src="ARROWWHITE.png" alt="Bilden kan inte visas." style="position: absolute; top: 120px; left: 900px;"></img>
+    <img src="ARROWWHITE.png" alt="Bilden kan inte visas." style="position: absolute; top: -85px; left: 900px;"></img>
+    <p style="font-family:'Times New Roman'; font-size: 20px; color: black; position: absolute; top: 600px; left: 500px;"><b> Här är vägen till ditt drömjobb! <br>Sök på ett jobb och se vägen du behöver ta för att utbilda dig till det jobbet<br>från början till arbetsplatsen!</b></br></br></p>
+    <form>
+      <input type="text" name"text" class="search" placeholder="Sök på ditt drömjobb">
+      <input type ="submit" name="submit" class="submit" value="Sök"
+    </form>
+
+  </body>
+</html>
