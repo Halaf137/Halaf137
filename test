@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="{{  url_for('static', filename='csselector.css') }}">
+    <title>First site</title>
+</head>
+<body>
+
+<div>
+    <p style="margin:0px 10px;font-size:40px;"><strong>Home</strong></p>
+    <a href="{{ url_for( 'home' ) }}"><img style="margin-top:0px;"
+    src="{{ url_for('static', filename='picturesweb/something.png')}}" alt="Home" height="100"></a>
+</div>
+
+<header>
+    <div>
+        <a class="image_indent" href="https://auth.vklass.se/credentials" target="_blank"><img src="{{  url_for('static', filename='picturesweb/vklass.png') }}" alt="vklass" height="50"></a>
+
+        <a class="image_indent" href="https://docs.google.com/document/u/0/?tgif=d" target="_blank"><img src="{{  url_for('static', filename='picturesweb/docs.png') }}" alt="google document" height="50"></a>
+
+        <a class="image_indent" href="https://www.youtube.com/?gl=SE&hl=sv" target="_blank"><img src="{{  url_for('static', filename='picturesweb/youtube.png') }}" alt="youtube" height="50"></a>
+
+        <a class="image_indent" href="https://data-flair.training/blogs/python-tutorials-home/" target="_blank"><img src=" {{ url_for('static', filename='picturesweb/Dataflair.png' ) }}" alt="data flair" height="50"></a>
+    </div>
+</header>
+<aside class="left">
+    <p>this is a aside</p>
+</aside>
+<article class="main">
+    {% block content%}{% endblock content %}
+</article>
+<footer>
+</footer>
+</body>
+</html>
