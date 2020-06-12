@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <<meta charset="UTF-8">
+    <title>Studievägsledning (Läkare)</title>
+    <<link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+
+
+    <div class="box1">
+      <div class="Blåruta"></div>
+    </div>
+    <div class="box1">
+      <div class="OrangerutaLäkare"></div>
+    </div>
+    <div class="box1">
+      <div class="OrangerutaLäkare2"></div>
+    </div>
+    <div class="box1">
+      <div class="OrangerutaLäkare3"></div>
+    </div>
+    <div class="box1">
+      <div class="OrangerutaLäkare4"></div>
+    </div>
+    <div class="box1">
+      <div class="OrangerutaLäkare5"></div>
+    </div>
+<!-- Svarta boxen mellan orange rutorna ligger här under-->
+    <div class="box1">
+      <div class="Svartbox"></div>
+    </div>
+    <div class="box1">
+      <div class="Svartbox2"></div>
+    </div>
+    <div class="box1">
+      <div class="Svartbox3"></div>
+    </div>
+    <div class="box1">
+      <div class="Svartbox4"></div>
+    </div>
+<!-- Här tar det slut -->
+    <img src="Läkarebild.png" alt="Bilden kan inte visas." style="position: absolute; top: 540px; left: 150px;"></img>
+    <!-- Detta här under är bilden på läkarsidan där opacity är låg den där uppe alltså inte den på blåa rutan -->
+    <img src="Läkarebild.png" alt="Bilden kan inte visas." style="position: absolute; top: 223px; left: -540px; width: 2830px; height: 350px; opacity: 0.2;"></img>
+    <form>
+      <input type="text" name"text" class="search2" placeholder="Sök på webbplatsen" style="border: 1px solid black">
+      <input type ="submit" name="submit" class="submit2" value="Sök" style="border: 1px solid black"
+    </form>
+    <p style= "font-size: 30px; color: white; position: absolute; top: 530px; left: 90px;"><b>Att jobba som läkare</b></p>
+    <div class="box1">
+      <div class="Vitbox"></div>
+    </div>
+    <p style="font-family: 'Times New Roman'; font-size: 18px; color: white; position: absolute; top: 600px; left: 90px;"> I Sverige tillhör yrket läkare Legitimationsyrken, där strikta krav gäller på vem som får utöva yrket.<br>Läkare är ett samlingsnamn för underläkare och specialistläkare.<br>Underläkare innebär att du tjänstgör som läkare, men att du ännu inte avslutat din specialistutbildning(ST-tjänst).<br>För att kalla sig allmänläkare, eller allmänspecialist,<br>krävs att du genomgått en 5 år lång ST-utbildning efter att du fått din läkarlegitimation.<br>Som läkare på sjukhus kan du arbeta inom många områden tillexempel kirurgi, psykiatri, ortopedi.<br>Läkare underöker patienter, ställer diagnoser och se till att de får de behandlingar och vård som krävs.<br>Som läkare ska du även informera patienterna om vilka behandlingsmöjligheter som finns samt<br>informera anhöriga, ge hälsoråd och upplysa om eventuella biverkningar av mediciner och behandlingar.</br></p>
+    <img src="doctors.png" alt="Bilden kan inte visas." style="position: absolute; top: 554px; left: -110px;"></img>
+    <p style= "font-size: 30px; color: white; position: absolute; top: 455px; left: 1000px;"><b>Hur ska du göra i gymnasiet för att bli läkare?</b></p>
+    <img src="ARROWWHITE.png" alt="Bilden kan inte visas." style="position: absolute; top: 160px; left: 1050px;"></img>
+    <p style= "font-size: 30px; color: white; position: absolute; top: 595px; left: 1000px;"><b>Hur ska du göra i högskolan för att bli läkare?</b></p>
+    <img src="ARROWWHITE.png" alt="Bilden kan inte visas." style="position: absolute; top: 300px; left: 1050px;"></img>
+    <p style= "font-size: 30px; color: white; position: absolute; top: 735px; left: 1000px;"><b>Genomsnittlig bruttolön för en läkare.</b></p>
+    <img src="ARROWWHITE.png" alt="Bilden kan inte visas." style="position: absolute; top: 440px; left: 1050px;"></img>
+    <p style= "font-size: 30px; color: white; position: absolute; top: 875px; left: 1000px;"><b>Är det enkelt att få jobb i Sverige som läkare?</b></p>
+    <img src="ARROWWHITE.png" alt="Bilden kan inte visas." style="position: absolute; top: 580px; left: 1050px;"></img>
+    <p style= "font-size: 30px; color: white; position: absolute; top: 1015px; left: 1000px;"><b>Hur ser en arbetsplats ut för en läkare?</b></p>
+    <img src="ARROWWHITE.png" alt="Bilden kan inte visas." style="position: absolute; top: 720px; left: 1050px;"></img>
+
+
+
+
+  </body>
+</html>
