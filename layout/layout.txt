@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="csslayout.css">
+    <title>Studievägledning</title>
+</head>
+<body>
+    <header>
+        <div>
+        <!--INSERT LOGO-->
+        <a href="layout.html"><img src="picture.png" alt="Home" height="50px"></a>
+
+        <!--Text beside logo-->
+        <p>Studievägledning- och<br>support</p>
+        </div>
+          <section style="margin:30px 0px;padding-bottom:30px;">
+        <a href="#">
+            <p class="menu_bar">
+                box
+            </p>
+        </a>
+        <a href="#">
+            <p class="menu_bar">
+                box
+            </p>
+        </a>
+        <a href="#">
+            <p class="menu_bar">
+                box
+            </p>
+        </a>
+        <a href="#">
+            <p class="menu_bar">
+                box
+            </p>
+        </a>
+        <a href="#">
+            <p class="menu_bar">
+                box
+            </p>
+        </a>
+        <a href="#">
+            <p class="menu_bar">
+                box
+            </p>
+        </a>
+    </section>
+
+    </header>
+
+
+    <!--Lägg Här-->
+
+
+
+
+
+    <footer>
+        aasdf
+    </footer>
+</body>
+</html>
