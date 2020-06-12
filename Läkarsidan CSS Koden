@@ -1,0 +1,164 @@
+
+.Item1{
+
+  width: 600px;
+  height:130px;
+  background-color: #005059;
+  position: absolute; top: 400px; left: 120px;
+  border: 5px solid black;
+  opacity: 0.6;
+
+
+}
+
+.Orangeruta{
+
+  width: 600px;
+  height:130px;
+  background-color: #d27700;
+  position: absolute; top: 200px; left: 850px;
+  border: 3px solid black;
+
+
+
+}
+
+
+.Orangeruta2{
+
+  width: 600px;
+  height:130px;
+  background-color: #d27700;
+  position: absolute; top: 400px; left: 850px;
+  border: 3px solid black;
+
+
+}
+
+.search{
+  width:80%
+  padding:10px;
+  font-size: 20px;
+  position: absolute;
+  top: 700px;
+  left: 500px;
+
+}
+.submit{
+  width: 40px;
+  height: 29px;
+  position: absolute;
+  top: 700px;
+  left: 750px;
+
+}
+
+
+.search2{
+  width:80%
+  padding:10px;
+  font-size: 20px;
+  position: absolute;
+  top: 420px;
+  left: 1200px;
+
+}
+
+.submit2{
+  width: 40px;
+  height: 27px;
+  position: absolute;
+  top: 420px;
+  left: 1445px;
+
+}
+.Blåruta{
+
+  width: 900px;
+  height: 640px;
+  background-color: #005059;
+  position: absolute; top: 480px; left: 50px;
+  border: 3px solid black;
+}
+
+.OrangerutaLäkare{
+  width: 600px;
+  height:80px;
+  background-color: #d27700;
+  position: absolute; top: 480px; left: 990px;
+  border: 3px solid black;
+}
+
+
+.OrangerutaLäkare2{
+  width: 600px;
+  height:80px;
+  background-color: #d27700;
+  position: absolute; top: 620px; left: 990px;
+  border: 3px solid black;
+}
+
+
+.OrangerutaLäkare3{
+  width: 600px;
+  height:80px;
+  background-color: #d27700;
+  position: absolute; top: 760px; left: 990px;
+  border: 3px solid black;
+}
+
+
+.OrangerutaLäkare4{
+  width: 600px;
+  height:80px;
+  background-color: #d27700;
+  position: absolute; top: 900px; left: 990px;
+  border: 3px solid black;
+}
+
+
+.OrangerutaLäkare5{
+  width: 600px;
+  height:80px;
+  background-color: #d27700;
+  position: absolute; top: 1040px; left: 990px;
+  border: 3px solid black;
+}
+
+.Svartbox{
+  width: 600px;
+  height: 5px;
+  background-color: black;
+  position: absolute; top: 590px;
+  left: 990px;
+}
+
+.Svartbox2{
+  width: 600px;
+  height: 5px;
+  background-color: black;
+  position: absolute; top: 730px;
+  left: 990px;
+}
+.Svartbox3{
+  width: 600px;
+  height: 5px;
+  background-color: black;
+  position: absolute; top: 870px;
+  left: 990px;
+}
+.Svartbox4{
+  width: 600px;
+  height: 5px;
+  background-color: black;
+  position: absolute; top: 1010px;
+  left: 990px;
+}
+.Vitbox{
+  width: 600px;
+  height: 5px;
+  background-color: white;
+  position: absolute; top: 600px; left: 90px; 
+
+
+}
